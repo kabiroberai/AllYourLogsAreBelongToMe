@@ -1,0 +1,9 @@
+Package: com.kabiroberai.all-logs
+Name: All Your Logs Are Belong to Me
+Section: Development
+Architecture: iphoneos-arm
+Description: Unredact private os_log messages
+Author: Kabir Oberai <oberai.kabir+all-logs@gmail.com>
+Maintainer: Kabir Oberai <oberai.kabir+all-logs@gmail.com>
+Depends: firmware (>= 10.0)
+Version: 1.0.0
